@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="front-back-jvm">
+    <output-path>$PROJECT_DIR$/build/libs</output-path>
+    <root id="archive" name="front-back-jvm.jar">
+      <element id="module-output" name="front-back.jvmMain" />
+    </root>
+  </artifact>
+</component>
